@@ -66,7 +66,7 @@ h1 {
     }
     
     .card img {
-        height: 120px; /* Adjust height for responsiveness on phones */
+       height: 120px; /* Adjust height for responsiveness on phones */
     }
 }
 /* Style the buttons */
